@@ -26,7 +26,6 @@ for i in range(int(arr_num)):
     if num in range(1, 1000001):
         array.append(num)
     else:
-        #print("Sorry that number can't be added to the array")
         print("Sorry that number can't be added to the array")
         sys.exit(0)
 
